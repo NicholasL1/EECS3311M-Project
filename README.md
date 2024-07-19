@@ -1,5 +1,5 @@
-# EECS3311M-Project
-Software Project for EECS3311
+# SamePage
+Software Design Project
 
 # ABOUT THIS PROJECT:
 
